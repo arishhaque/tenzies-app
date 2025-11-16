@@ -32,7 +32,3 @@ yarn build
 Click any die to toggle the held state (held dice are visually highlighted).
 Click Roll to roll all non-held dice.
 When all dice are held and show the same value, the game is won and a celebration (confetti) is shown if installed.
-
-
-## to do
-Add a timer and a roll counter to see how quickly you can win the game
