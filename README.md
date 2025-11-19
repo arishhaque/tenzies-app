@@ -21,7 +21,7 @@ Play: roll dice until all 10 dice show the same value. Click a die to "hold" it 
 yarn install
 
 
-Start the dev server and open the app at http://localhost:5173:
+## Start the dev server and open the app at http://localhost:5173:
 yarn dev
 
 ## Build a production bundle:
